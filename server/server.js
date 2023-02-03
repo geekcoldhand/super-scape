@@ -8,6 +8,7 @@ import morgan from "morgan";
 import path from "path";
 import { fileURLToPath } from "url";
 import mongoose from "mongoose";
+import { register } from "./controllers/";
 
 // CONFIG
 dotenv.config();
@@ -42,8 +43,12 @@ const storage = multer.diskStorage({
 });
 
 const upload = multer({ storage }); //picture and other files uploaded with multer
+
+// Routes with files
+app.post("/auth/register", upload.single("picture"), register);
+
 // mongoose
-mongoose.connect(process.env.MONGO_URL , {
+mongoose.connect(process.env.MONGO_URL, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });

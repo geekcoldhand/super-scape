@@ -32,7 +32,7 @@ Apache
 
 # Contributions
 
-Leo
+Leo Thomas
 
 # Test
 
