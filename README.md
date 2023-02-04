@@ -12,7 +12,7 @@
     8. [Contributions](#Contributions)
     9. [Test](#Test)
 
-    # Social Scape
+    # Social Scape: client
 
 # Details
 
@@ -24,7 +24,7 @@ React
 
 # Benefits
 
-a plaform for smart people
+a plaform for smart people (front end)
 
 # Licenses
 
@@ -32,7 +32,7 @@ Apache
 
 # Contributions
 
-Leo Thomas
+Leo Thomas, Horatious Harris
 
 # Test
 
