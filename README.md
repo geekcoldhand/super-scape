@@ -16,15 +16,18 @@
 
 # Details
 
-a clone of differnet social medias to bring the best platform for stimulating communities'
+Client interface for the socialScape
 
 # Installation
+run:
+npm i
+npm start
 
 React
 
 # Benefits
 
-a plaform for smart people (front end)
+a platform for ...
 
 # Licenses
 
@@ -36,7 +39,7 @@ Leo Thomas, Horatious Harris
 
 # Test
 
-No test have been done at this time
+No tests have been done at this time
 
 # Github
 
