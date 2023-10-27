@@ -1,8 +1,8 @@
 {
-  "short_name": "Socail Scape",
-  "name": "",
+  "short_name": "Scape",
+  "name": "Super Scape",
 
-  "start_url": ".",
+  "start_url": "",
   "display": "standalone",
   "theme_color": "#eaeaea",
   "background_color": "#ffffff"
